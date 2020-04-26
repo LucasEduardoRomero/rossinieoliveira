@@ -1,0 +1,49 @@
+h4.nav_subtitle{
+  font-size: 18px;
+  margin-bottom: 0px;
+  text-align: center;
+  margin: 0px;
+}
+h3.nav_title{
+  font-size: 28px;
+  margin: 0px;
+}
+div.header-container{
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+}
+div#brand{
+  display: flex;
+  flex-direction: row;
+}
+.nav-link{
+  color: #d8d8d8!important;
+}
+/*============================================*/
+
+#page_title{
+  text-align: center;
+}
+
+
+
+
+
+
+/*============================================*/
+
+.selected{
+  font-weight: 900;
+  color:#fff!important;
+}
+.adv_font{
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+/*============================================*/
+
+
+.foot{
+  background-color: #343a40;
+  color: #d8d8d8;
+}
